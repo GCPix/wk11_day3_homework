@@ -1,0 +1,13 @@
+Answer the following questions:
+
+What is the purpose of a breakpoint?
+It stops the code running
+Does the line of code on a breakpoint run when you start debugging?
+No
+How do we debug the next line of code?
+step into the code
+What does the step into command do?
+it moves to the next line of code and shows, if relevant, values assigned to parameters etc.
+What is the difference between evaluate expression and evaluate code fragment?
+evaluate expression allows you to enter an expression based on where you are in the debugger you can check values etc. You also don't use a ';'
+evaluate code fragment basically allows you to write multiple lines and create and assign temp variables.  In this case you do need the ';'
